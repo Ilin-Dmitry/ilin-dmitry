@@ -5,6 +5,9 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&duration=1000&pause=200000&color=477777&vCenter=true&width=180&height=30&lines=and+I'm+a" alt="Typing SVG" /><h2 style="margin-top: 16px;"> 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 </h2><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&pause=1000&color=288AB6&vCenter=true&width=230&height=30&lines=web-developer." alt="Typing SVG" /></div>
 </div>
 
+<h2 style='margin-bottom: 0;'>About me</h2>
+<p>During the pandemic in 2020 I decided to change my life completely, so here am I. I have recently finished my one-year courses. It was a breathtaking journey through web technologies universe. So now I'm eager to create!</p>
+
 <h2 style='margin-bottom: 0;'>My stack</h2>
 <div align='left'>
     <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='badge' />
@@ -20,6 +23,8 @@
     <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='badge' />
 
 </div>
+
+
 
 
 
