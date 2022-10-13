@@ -8,6 +8,10 @@
 <h2 style='margin-bottom: 0;'>About me</h2>
 <p>During the pandemic in 2020 I decided to change my life completely, so here am I. I have recently finished my one-year courses. It was a breathtaking journey through web technologies universe. And now I'm eager to create!</p>
 
+<h2 style='margin-bottom: 0;'>Contact me</h2>
+<h5>E-mail: <a href="mailto:dm-ilin@mail.ru" target="_blank">dm-ilin@mail.ru</a></h5>
+<h5>Telegram: <a href="@dmitri_ilin" target="_blank">@dmitri_ilin</a></h5>
+
 <h2 style='margin-bottom: 0;'>My stack</h2>
 <div align='left'>
     <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='badge' />
