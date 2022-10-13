@@ -2,11 +2,11 @@
 <div style="background-color: black;">
 <h1 align="center" style="color: white;">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖! 𝕄𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 𝔻𝕞𝕚𝕥𝕣𝕪  👋 </h1>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&duration=1000&pause=200000&color=477777&vCenter=true&width=180&height=30&lines=and+I'm+a" alt="Typing SVG" /><h2 style="margin-top: 16px;"> 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 </h2><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&pause=1000&color=288AB6&vCenter=true&width=230&height=30&lines=web-developer." alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&duration=1000&pause=200000&color=477777&vCenter=true&width=150&height=30&lines=and+I'm+a" alt="Typing SVG" /><h3 style="margin-top: 16px;"> 🅿🅰🆂🆂🅸🅾🅽🅰🆃🅴 </h3><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&pause=1000&color=288AB6&vCenter=true&width=230&height=70&lines=web-developer." alt="Typing SVG" /></div>
 </div>
 
 <h2 style='margin-bottom: 0;'>About me</h2>
-<p>During the pandemic in 2020 I decided to change my life completely, so here am I. I have recently finished my one-year courses. It was a breathtaking journey through web technologies universe. So now I'm eager to create!</p>
+<p>During the pandemic in 2020 I decided to change my life completely, so here am I. I have recently finished my one-year courses. It was a breathtaking journey through web technologies universe. And now I'm eager to create!</p>
 
 <h2 style='margin-bottom: 0;'>My stack</h2>
 <div align='left'>
