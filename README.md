@@ -10,7 +10,7 @@
 
 <h2 style='margin-bottom: 0;'>Contact me</h2>
 <h5>E-mail: <a href="mailto:dm-ilin@mail.ru" target="_blank">dm-ilin@mail.ru</a></h5>
-<h5>Telegram: <a href=" https://t.me/dmitri_ilin" target="_blank">@dmitri_ilin</a></h5>
+<h5>Telegram: <a href="https://t.me/dmitri_ilin" target="_blank">@dmitri_ilin</a></h5>
 
 <h2 style='margin-bottom: 0;'>My stack</h2>
 <div align='left'>
