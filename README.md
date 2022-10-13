@@ -5,9 +5,9 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&duration=1000&pause=200000&color=477777&vCenter=true&width=180&height=30&lines=and+I'm+a" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=cherry+swash&size=30&pause=1000&color=288AB6&vCenter=true&width=360&height=30&lines=web-developer.;fullstack-developer.;web-designer." alt="Typing SVG" /></div>
 </div>
 
-<h3>My stack</h3>
-
-<div align='center'>
+<h2 style='margin-bottom: 0;'>My stack</h2>
+<hr style="margin-top: 0; margin-bottom: 15px;">
+<div align='left'>
     <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='badge' />
     <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='badge' />
     <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)' alt='badge' />
