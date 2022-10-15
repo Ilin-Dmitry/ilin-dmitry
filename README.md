@@ -39,6 +39,7 @@
 <p><a href="https://mesto.dmilin.nomoredomains.sbs/" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/movies-explorer-frontend" target="_blank">Link to the repository</a></p>
 <img src='./images/movies.jpg' alt="mesto"/>
+<p>This project is a demo of a movie search service. The user can find a movie from a database provided by a third-party API. It is also possible to filter the results, add the cards of the films you like to your profile, or vice versa delete them. You can edit your profile information. Unregistered users have access to the main page with the description of the project and information about the author. Frontend is built using React framework, backend is built on Node.js/Express/MongoDB/pm2/Nginx.</p>
 <p>Проект является демонстрацией сервиса по поиску фильмов. Пользователь может найти фильм из базы, предоставляемой сторонним API. Предоставляется возможность отфильтровать результаты, добавить понравившиеся карточки в свой профиль или наоборот удалить их. Также можно редактировать данные своего профиля. Незарегистрированным пользователям доступна главная страница с описанием проекта и информацией об авторе. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
 <br>
@@ -46,6 +47,7 @@
 <p><a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a></p>
 <img src='./images/mesto.jpg' alt="movies"/>
+<p>This project demonstrates the functionality of a social network that allows registered users to share their photos, like/delete likes, delete their own cards, edit their profile data. Frontend is built using React framework, backend is built on Node.js/Express/MongoDB/pm2/Nginx.</p>
 <p>Проект демонстрирует функционал соц.сети, предоставляющей возможность зарегистрированным пользователям делиться своими фотографиями, ставить/удалять лайки, удалять свои карточки, редактировать данные своего профиля. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
 <br>
@@ -53,6 +55,7 @@
 <p><a href="https://ilin-dmitry.github.io/russian-travel/index.html" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/russian-travel" target="_blank">Link to the repository</a></p>
 <img src='./images/russian-travel.jpg' alt="russian-travel"/>
+<p>This project is about traveling around Russia, including in a quite unusual way - by commuter trains. It contains links to useful resources that can help while organizing a trip - maps, railway transport schedules, accommodation booking service, etc. This is an adaptive website with grid changes at four breakpoints. It is created using flexbox and grid. The layout was made according to the BEM standard (Nested).</p>
 <p>Проект о путешествиях по России, в том числе и достаточно непривычным способом - на электричках. Проект содержит ссылки на полезные ресурсы, которые могут пригодиться при организации путешествия - карты, расписание ЖД транспорта, сервис бронирования проживания и т.д. Это адаптивный сайт с изменениями сетки в четырех контрольных точках. Реализован с использованием flexbox и grid. Верстка осуществлялась по стандарту БЭМ (Nested).</p>
 
 <br>
@@ -60,6 +63,7 @@
 <p><a href="https://ilin-dmitry.github.io/how-to-learn/index.html" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/how-to-learn" target="_blank">Link to the repository</a></p>
 <img src='./images/how-to-learn.jpg' alt="russian-travel"/>
+<p>This project is about the sensible approach to learning. It was made using the knowledge of the BEM methodology, flexbox layout was applied, animation of some design elements were added, videos from Youtube were embedded on the page.</p>
 <p>Проект о правильном подходе к обучению, на котором были применены знания о методологии БЭМ, использовалась flexbox-верстка, была добавлена анимация некоторых элементов дизайна, внедрены на страницу видеоролики с Youtube.</p>
 
 
