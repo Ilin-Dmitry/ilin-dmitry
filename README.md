@@ -55,6 +55,14 @@
 <img src='./images/russian-travel.jpg' alt="russian-travel"/>
 <p>Проект о путешествиях по России, в том числе и достаточно непривычным способом - на электричках. Проект содержит ссылки на полезные ресурсы, которые могут пригодиться при организации путешествия - карты, расписание ЖД транспорта, сервис бронирования проживания и т.д. Это адаптивный сайт с изменениями сетки в четырех контрольных точках. Реализован с использованием flexbox и grid. Верстка осуществлялась по стандарту БЭМ (Nested).</p>
 
+<br>
+<h3>How To Learn(HTML/CSS)</h3>
+<p><a href="https://ilin-dmitry.github.io/how-to-learn/index.html" target="_blank">Link to the site</a></p>
+<p><a href="https://github.com/Ilin-Dmitry/how-to-learn" target="_blank">Link to the repository</a></p>
+<img src='./images/how-to-learn.jpg' alt="russian-travel"/>
+<p>Проект о правильном подходе к обучению, на котором были применены знания о методологии БЭМ, использовалась flexbox-верстка, была добавлена анимация некоторых элементов дизайна, внедрены на страницу видеоролики с Youtube.</p>
+
+
 <!--
 **Ilin-Dmitry/ilin-dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
