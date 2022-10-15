@@ -47,7 +47,12 @@
 <img src='./images/mesto.jpg' alt="mesto"/>
 <p>Проект демонстрирует функционал соц.сети, предоставляющей возможность зарегистрированным пользователям делиться своими фотографиями, ставить/удалять лайки, удалять свои карточки, редактировать данные своего профиля. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
-
+<br>
+<h3>Russian Travel(HTML/CSS)</h3>
+<p><a href="https://ilin-dmitry.github.io/russian-travel/index.html" target="_blank">Link to the site</a></p>
+<p><a href="https://github.com/Ilin-Dmitry/russian-travel" target="_blank">Link to the repository</a></p>
+<img src='./images/mesto.jpg' alt="mesto"/>
+<p>Проект о путешествиях по России, в том числе и достаточно непривычным способом - на электричках. Проект содержит ссылки на полезные ресурсы, которые могут пригодиться при организации путешествия - карты, расписание ЖД транспорта, сервис бронирования проживания и т.д. Это адаптивный сайт с изменениями сетки в четырех контрольных точках. Реализован с использованием flexbox и grid. Верстка осуществлялась по стандарту БЭМ (Nested).</p>
 
 <!--
 **Ilin-Dmitry/ilin-dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
