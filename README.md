@@ -31,6 +31,7 @@
 <img src='https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg' alt="snake-game" />
 
 <h2>My recent projects</h2>
+<<<<<<< HEAD
 
 <h4>Movies. Frontend(React) + backend(Node.js/Express/MongoDB)</h4>
 <a href="https://mesto.dmilin.nomoredomains.sbs/" target="_blank">Link to the site</a>
@@ -41,6 +42,11 @@
 <h4>Mesto. Frontend(React) + backend(Node.js/Express/MongoDB)</h4>
 <a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a>
 <a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a>
+=======
+<h3>Mesto. Frontend(React) + backend(Node.js/Express/MongoDB)</h3>
+<p><a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a></p>
+<p><a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a></p>
+>>>>>>> be10d2e18c35fce28b05515e67676668f7529dc2
 <img src='./images/mesto.jpg' alt="mesto"/>
 <p>Проект демонстрирует функционал соц.сети, предоставляющей возможность зарегистрированным пользователям делиться своими фотографиями, ставить/удалять лайки, удалять свои карточки, редактировать данные своего профиля. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
