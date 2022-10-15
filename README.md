@@ -26,6 +26,7 @@
     <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white' alt='badge' /> 
     <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='badge' />
     <img src='https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='badge' />
+    
 
 </div>
 
@@ -34,11 +35,12 @@
 <h2>My recent projects</h2>
 
 <h3>Movies. Frontend(React) + backend(Node.js/Express/MongoDB)</h3>
-<a href="https://mesto.dmilin.nomoredomains.sbs/" target="_blank">Link to the site</a>
-<a href="https://github.com/Ilin-Dmitry/movies-explorer-frontend" target="_blank">Link to the repository</a>
+<p><a href="https://mesto.dmilin.nomoredomains.sbs/" target="_blank">Link to the site</a></p>
+<p><a href="https://github.com/Ilin-Dmitry/movies-explorer-frontend" target="_blank">Link to the repository</a></p>
 <img src='./images/movies.jpg' alt="mesto"/>
 <p>Проект является демонстрацией сервиса по поиску фильмов. Пользователь может найти фильм из базы, предоставляемой сторонним API. Предоставляется возможность отфильтровать результаты, добавить понравившиеся карточки в свой профиль или наоборот удалить их. Также можно редактировать данные своего профиля. Незарегистрированным пользователям доступна главная страница с описанием проекта и информацией об авторе. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
+<br>
 <h3>Mesto. Frontend(React) + backend(Node.js/Express/MongoDB)</h3>
 <p><a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a></p>
