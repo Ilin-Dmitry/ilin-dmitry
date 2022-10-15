@@ -26,6 +26,7 @@
     <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white' alt='badge' /> 
     <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='badge' />
     <img src='https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='badge' />
+    <img src='https://img.shields.io/badge/BEM(Nested)-grey.svg?style=for-the-badge&logo=SAS&logoColor=white' alt='badge' />
     
 
 </div>
@@ -44,14 +45,14 @@
 <h3>Mesto. Frontend(React) + backend(Node.js/Express/MongoDB)</h3>
 <p><a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a></p>
-<img src='./images/mesto.jpg' alt="mesto"/>
+<img src='./images/mesto.jpg' alt="movies"/>
 <p>Проект демонстрирует функционал соц.сети, предоставляющей возможность зарегистрированным пользователям делиться своими фотографиями, ставить/удалять лайки, удалять свои карточки, редактировать данные своего профиля. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
 
 <br>
 <h3>Russian Travel(HTML/CSS)</h3>
 <p><a href="https://ilin-dmitry.github.io/russian-travel/index.html" target="_blank">Link to the site</a></p>
 <p><a href="https://github.com/Ilin-Dmitry/russian-travel" target="_blank">Link to the repository</a></p>
-<img src='./images/mesto.jpg' alt="mesto"/>
+<img src='./images/russian-travel.jpg' alt="russian-travel"/>
 <p>Проект о путешествиях по России, в том числе и достаточно непривычным способом - на электричках. Проект содержит ссылки на полезные ресурсы, которые могут пригодиться при организации путешествия - карты, расписание ЖД транспорта, сервис бронирования проживания и т.д. Это адаптивный сайт с изменениями сетки в четырех контрольных точках. Реализован с использованием flexbox и grid. Верстка осуществлялась по стандарту БЭМ (Nested).</p>
 
 <!--
