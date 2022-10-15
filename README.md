@@ -31,6 +31,13 @@
 <img src='https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg' alt="snake-game" />
 
 <h2>My recent projects</h2>
+
+<h4>Movies. Frontend(React) + backend(Node.js/Express/MongoDB)</h4>
+<a href="https://mesto.dmilin.nomoredomains.sbs/" target="_blank">Link to the site</a>
+<a href="https://github.com/Ilin-Dmitry/movies-explorer-frontend" target="_blank">Link to the repository</a>
+<img src='./images/movies.jpg' alt="mesto"/>
+<p>Проект является демонстрацией сервиса по поиску фильмов. Пользователь может найти фильм из базы, предоставляемой сторонним API. Предоставляется возможность отфильтровать результаты, добавить понравившиеся карточки в свой профиль или наоборот удалить их. Также можно редактировать данные своего профиля. Незарегистрированным пользователям доступна главная страница с описанием проекта и информацией об авторе. Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.</p>
+
 <h4>Mesto. Frontend(React) + backend(Node.js/Express/MongoDB)</h4>
 <a href="https://mesto.dm-ilin.nomorepartiesxyz.ru/" target="_blank">Link to the site</a>
 <a href="https://github.com/Ilin-Dmitry/react-mesto-api-full" target="_blank">Link to the repository</a>
